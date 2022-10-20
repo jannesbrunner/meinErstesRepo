@@ -1,0 +1,5 @@
+<sensor>
+    <name>Test</name>
+    <type>Test</type>
+    <value>1</value>
+</sensor>
